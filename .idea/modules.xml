@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Coroutines_Working.iml" filepath="$PROJECT_DIR$/.idea/modules/Coroutines_Working.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/finished_code/Coroutines_Working.finished_code.iml" filepath="$PROJECT_DIR$/.idea/modules/finished_code/Coroutines_Working.finished_code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/start/Coroutines_Working.start.iml" filepath="$PROJECT_DIR$/.idea/modules/start/Coroutines_Working.start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/start/Coroutines_Working.start.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/start/Coroutines_Working.start.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/start/Coroutines_Working.start.main.iml" filepath="$PROJECT_DIR$/.idea/modules/start/Coroutines_Working.start.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/start/Coroutines_Working.start.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/start/Coroutines_Working.start.unitTest.iml" />
+    </modules>
+  </component>
+</project>
